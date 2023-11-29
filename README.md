@@ -9,4 +9,5 @@ The target audience for this tutorial is anyone from a novice to intermidiate ex
 Navigation:
 
 [Budgeting and Parts](Parts.md)
+<br>
 [Assembly](Assembly.md)

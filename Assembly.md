@@ -9,7 +9,7 @@ Steps:
 5. Install the *GPU* to your *Motherboard*
 6. Install your *Power Supply* in the *Case*, and plug in all of the neccessary cables
 7. Mount and plug in your *Storage Drives*
-8. Install your *Wi-Fi Card* (only applicable if your *Motherboard* doesn't come with integrated Wi-Fi
+8. Install your *Wi-Fi Card* (if applicable)
 9. Mount and plug in supplementary *Case Fans*
 10. Cable Management!
 11. Boot and install your *Operating System*

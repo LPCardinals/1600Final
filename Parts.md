@@ -8,8 +8,9 @@ List of required parts:
 2. Central Processing Unit (CPU)
 3. Graphics Processing Unit (GPU)
 4. Motherboard
-5. Storage
-6. Power Supply Unit (PSU)
-7. System Cooling
-8. Peripherals
-9. Operating System
+5. Wi-Fi Card (if not integrated with your motherboard)
+6. Storage
+7. Power Supply Unit (PSU)
+8. System Cooling
+9. Peripherals
+10. Operating System

@@ -8,5 +8,5 @@ The target audience for this tutorial is anyone from a novice to intermidiate ex
 
 Navigation:
 
-[Budgeting and Parts](PartList.md)
-[Assembly](HowTo.md)
+[Budgeting and Parts](Parts.md)
+[Assembly](Assembly.md)

@@ -1,4 +1,4 @@
-# Building Your Own Computer: A Guide
+# Building Your Own Computer: A Rough Guide
 
 # Author - Lane Parker
 
